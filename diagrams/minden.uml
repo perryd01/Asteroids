@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="160.5" y="0.0">com.csodak.Entity</node>
+    <node x="1035.0" y="0.0">com.csodak.Game</node>
+    <node x="405.0" y="492.0">com.csodak.Player</node>
+    <node x="574.0" y="1086.0">com.csodak.Uranium</node>
+    <node x="0.0" y="552.5">com.csodak.Ufo</node>
+    <node x="664.75" y="859.0">com.csodak.Resource</node>
+    <node x="937.0" y="1111.0">com.csodak.Coal</node>
+    <node x="0.0" y="859.0">com.csodak.Inventory</node>
+    <node x="832.0" y="1111.0">com.csodak.Iron</node>
+    <node x="207.0" y="588.5">com.csodak.Robot</node>
+    <node x="1068.0" y="859.0">com.csodak.Portal</node>
+    <node x="721.0" y="0.0">com.csodak.Asteroid</node>
+    <node x="1306.0" y="859.0">com.csodak.Blueprint</node>
+    <node x="0.0" y="1249.0">com.csodak.Effect</node>
+    <node x="316.0" y="1098.5">com.csodak.Ice</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.csodak.Uranium" target="com.csodak.Resource">
+      <point x="0.0" y="-53.0" />
+      <point x="693.0" y="1066.0" />
+      <point x="754.0" y="1066.0" />
+      <point x="-29.75" y="88.5" />
+    </edge>
+    <edge source="com.csodak.Ufo" target="com.csodak.Entity">
+      <point x="0.0" y="-100.5" />
+      <point x="93.5" y="467.0" />
+      <point x="205.66666666666669" y="467.0" />
+      <point x="-90.33333333333331" y="221.0" />
+    </edge>
+    <edge source="com.csodak.Ice" target="com.csodak.Resource">
+      <point x="0.0" y="-40.5" />
+      <point x="435.0" y="1056.0" />
+      <point x="694.5" y="1056.0" />
+      <point x="-89.25" y="88.5" />
+    </edge>
+    <edge source="com.csodak.Coal" target="com.csodak.Resource">
+      <point x="0.0" y="-28.0" />
+      <point x="980.0" y="1056.0" />
+      <point x="873.0" y="1056.0" />
+      <point x="89.25" y="88.5" />
+    </edge>
+    <edge source="com.csodak.Robot" target="com.csodak.Entity">
+      <point x="0.0" y="-64.5" />
+      <point x="0.0" y="221.0" />
+    </edge>
+    <edge source="com.csodak.Player" target="com.csodak.Entity">
+      <point x="0.0" y="-161.0" />
+      <point x="540.5" y="467.0" />
+      <point x="386.3333333333333" y="467.0" />
+      <point x="90.33333333333331" y="221.0" />
+    </edge>
+    <edge source="com.csodak.Iron" target="com.csodak.Resource">
+      <point x="0.0" y="-28.0" />
+      <point x="874.5" y="1066.0" />
+      <point x="813.5" y="1066.0" />
+      <point x="29.75" y="88.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5666243654822335" x="1154.0" y="778.0" />
+  <SelectedNodes>
+    <node>com.csodak.Ufo</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
