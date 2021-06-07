@@ -1,5 +1,7 @@
 Aszteroidas jatek
 =================
+### BME VIK Prog3 Szoftver projekt lab csapat feladat
+
 #### Mi kell szerkesztéshez / fordításhoz
 + Intellij-vel klonozd es toltsd le  a liberica-jdk-11 et
 
